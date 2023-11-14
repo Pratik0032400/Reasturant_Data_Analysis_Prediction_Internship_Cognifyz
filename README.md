@@ -38,3 +38,24 @@ Task_3 - **Feature Engineering:**
 
 * Introduced two new columns, 'Restaurant Name Length' and 'Address Length,' based on the length of restaurant names and addresses.
 * Additionally, i created two binary columns, 'Has Table Booking' and 'Has Online Delivery,' by encoding categorical variables.
+
+## **Level_3**
+
+Task_1 - **Predictive Modeling Insights:**
+
+* Leveraging three regression models, Linear Regression, Decision Tree, and Random Forest, we successfully predicted restaurant aggregate ratings.
+* Random Forest outperformed other models, showcasing the lowest Mean Squared Error (MSE) of approximately 0.1337 and the highest R-squared value of about 0.9413.
+
+Task_2 - **Customer Preference Analysis Findings:**
+
+* Certain cuisines like cafe, mughlai, north Indian, and fast food significantly impact restaurant ratings, with varying performance.
+* North Indian and Chinese cuisines exhibit greater rating variability, while cafe and fast food cuisines maintain more consistent ratings.
+* By the number of votes, North Indian, Mughlai, and Chinese cuisines emerged as the most popular.
+* Italian, Hawaiian, Seafood, Tea, Sandwich, Continental, and Indian cuisines received the highest average ratings.
+
+Task_3 - **Data Visualization Highlights:**
+
+* The restaurant ratings distribution is negatively skewed.
+* Italian, Hawaiian, Seafood, Tea, Sandwich, Continental, and Indian cuisines topped the charts based on the highest average ratings.
+* Cities like Inner City, Quezon City, and Makati City were identified as the most popular based on the highest average rating.
+* We observed a positive correlation between votes and restaurant ratings.
