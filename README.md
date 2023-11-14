@@ -59,3 +59,5 @@ Task_3 - **Data Visualization Highlights:**
 * Italian, Hawaiian, Seafood, Tea, Sandwich, Continental, and Indian cuisines topped the charts based on the highest average ratings.
 * Cities like Inner City, Quezon City, and Makati City were identified as the most popular based on the highest average rating.
 * We observed a positive correlation between votes and restaurant ratings.
+
+  
